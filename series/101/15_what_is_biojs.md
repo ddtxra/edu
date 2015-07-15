@@ -36,7 +36,7 @@ We are quite more than just a registry for components - we aim to build a infras
 , guidelines and tools to avoid the reinvention of the wheel in life sciences (= "Docker for Bio web components").  
 In the early days of BioJS we defined specific _Easy to_ goals, let's see where we currently stand:
 
-* Easy to _combine_ - `require('my-awesome-biojs-component')` (with `browserify` we can also use run  `require` in the browser)
+* Easy to _combine_ - `require('my-awesome-biojs-component')` (with `browserify` we can also use `require` in the browser)
 * Easy to _use_ - `npm install my-awesome-biojs-component` (you will see that `npm` exactly behaves like our Lego block manager)
 * Easy to _develop_ : we make only minimal rules and try to give the developers as much freedom as possible
 * Easy to _discover_ : BioJS components can be easily browsed at [biojs.io](http://biojs.io)
